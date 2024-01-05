@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/ignite-rocketseat
 report_id: 5a0c993df57676a7ee20197680c95e5a
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:19:07+00:00'
+timestamp: '2024-01-05T08:11:48+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/AlexcastroDev/ignite-rocketseat
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/AlexcastroDev/ignite-rocketseat
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -37,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/AlexcastroDev/ignite-rocketseat/blob/main/package.json
   detection_source: package.json
   last_updated_by: Alexandro Castro
   last_updated_on: 2022-03-01 17:26:02.000000000 Z
@@ -63,6 +66,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/AlexcastroDev/ignite-rocketseat/blob/main/package.json
   detection_source: package.json
   last_updated_by: Alexandro Castro
   last_updated_on: 2022-03-01 17:26:02.000000000 Z
@@ -75,6 +79,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/AlexcastroDev/ignite-rocketseat/blob/main/package.json
   detection_source: package.json
   last_updated_by: Alexandro Castro
   last_updated_on: 2022-03-01 17:26:02.000000000 Z
@@ -101,6 +106,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/AlexcastroDev/ignite-rocketseat/blob/main/package.json
   detection_source: package.json
   last_updated_by: Alexandro Castro
   last_updated_on: 2022-03-01 17:26:02.000000000 Z
@@ -112,6 +118,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/ignite-rocketseat
   detection_source: Repo Metadata
 - name: Jest
   description: Painless JavaScript Unit Testing
@@ -149,6 +156,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/AlexcastroDev/ignite-rocketseat/blob/main/package.json
   detection_source: package.json
   last_updated_by: Alexandro Castro
   last_updated_on: 2022-03-01 17:26:02.000000000 Z
